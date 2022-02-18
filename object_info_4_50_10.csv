@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+/object_info_4,2138,135,10,6922,149.20,2.339%,199.77574,50.18,31.82,257.2
+TOTAL,2138,135,10,6922,149.20,2.339%,199.77574,50.18,31.82,257.2
